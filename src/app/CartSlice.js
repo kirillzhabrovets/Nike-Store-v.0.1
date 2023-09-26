@@ -3,7 +3,7 @@ import toast from "react-hot-toast";
 
 const initialState = {
   cartState: false,
-  cartItems: localStorage.getItem("cart") ? JSON.parse(localStorage.getItem("cart")) : []
+  cartItems: localStorage.getItem("cart") ? JSON.parse(localStorage.getItem("cart")) : [],
 };
 
 const CartSlice = createSlice({
@@ -32,7 +32,7 @@ const CartSlice = createSlice({
         toast.success(`${action.payload.title} добавлен в корзину`, {style: { borderRadius:'10px', background: "#333", color: "#fff"}});
       }
 
-      localStorage.setItem("cart", JSON.stringify(state.cartItems))
+      localStorage.setItem("cart", JSON.stringify(state.cartItems));
     },
   },
 });
