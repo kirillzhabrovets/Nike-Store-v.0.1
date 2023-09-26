@@ -59,7 +59,7 @@ const popularsales = {
       title: "Nike Addapt BB 2.0",
       text: "MEN Running Shoes",
       rating: "4.9",
-      btn: "Buy Now",
+      btn: "Купить",
       img: psale2,
       price: "200",
       color: "from-blue-600 to-blue-500",
@@ -70,7 +70,7 @@ const popularsales = {
       title: "Nike Martine Rose",
       text: "MEN Running Shoes",
       rating: "4.5",
-      btn: "Buy Now",
+      btn: "Купить",
       img: psale1,
       price: "200",
       color: "from-red-500 to-rose-500",
@@ -81,7 +81,7 @@ const popularsales = {
       title: "Nike Smart Shoe 2.0",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: psale3,
       price: "200",
       color: "from-violet-500 to-indigo-500",
@@ -94,7 +94,7 @@ const highlight = {
   heading: "HIGHLIGHTS",
   title: "NIKE AIR WITH LIMITLESS CHOICES",
   text: "Our Purpose is to move the world forward. We take action by building community, protecting our planet and increasing access to sport.",
-  btn: "Explore More",
+  btn: "Узнать больше",
   url: "https://www.nike.com/launch/t/nocta-hot-step-black-gold",
   img: hightlightimg,
 };
@@ -103,7 +103,7 @@ const sneaker = {
   heading: "FEATURED",
   title: "NIKE SNEAKERS AIR LANCING SHOES",
   text: "The radiance lives on Nike Sneakers Air Lancing Shoes, the basket ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
-  btn: "Explore More",
+  btn: "Узнать больше",
   url: "https://sneakernews.com/2022/03/21/nike-lebron-2-retro-white-midnight-navy-varsity-crimson-dr0826-100/",
   img: sneakershoe,
 };
@@ -116,7 +116,7 @@ const toprateslaes = {
       title: "Nike Air Low Premium",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product7,
       price: "150",
       color: "from-sky-600 to-indigo-600",
@@ -127,7 +127,7 @@ const toprateslaes = {
       title: "Nike Air Force Green",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product2,
       price: "150",
       color: "from-green-500 to-emerald-500",
@@ -138,7 +138,7 @@ const toprateslaes = {
       title: "Nike Addapt BB Rose",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product3,
       price: "150",
       color: "from-red-500 to-rose-500",
@@ -149,7 +149,7 @@ const toprateslaes = {
       title: "Nike Air Premium",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product4,
       price: "150",
       color: "from-orange-500 to-amber-500",
@@ -160,7 +160,7 @@ const toprateslaes = {
       title: "Nike Adapt BB Pro",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product5,
       price: "150",
       color: "from-gray-900 to-yellow-500",
@@ -171,7 +171,7 @@ const toprateslaes = {
       title: "Air Jordan PR3",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product6,
       price: "150",
       color: "from-blue-500 to-cyan-500",
@@ -182,7 +182,7 @@ const toprateslaes = {
       title: "Nike Multi Smart Shoe",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product1,
       price: "150",
       color: "from-yellow-500 to-yellow-500",
@@ -193,7 +193,7 @@ const toprateslaes = {
       title: "Nike Jordan Air Max",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product9,
       price: "150",
       color: "from-[#936550] to-orange-900",
@@ -204,7 +204,7 @@ const toprateslaes = {
       title: "Nike Old Max-x",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product10,
       price: "150",
       color: "from-indigo-700 to-indigo-700",
@@ -215,7 +215,7 @@ const toprateslaes = {
       title: "Nike Lime Jordan 11",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product12,
       price: "150",
       color: "from-green-600 to-lime-500",
@@ -226,7 +226,7 @@ const toprateslaes = {
       title: "Nike Air Black Max",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product11,
       price: "150",
       color: "from-slate-900 to-black",
@@ -237,7 +237,7 @@ const toprateslaes = {
       title: "Nike Zoom Max",
       text: "MEN Running Shoes",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Купить",
       img: product8,
       price: "150",
       color: "from-blue-900 to-blue-500",
@@ -258,7 +258,7 @@ const story = {
       like: "3/5",
       time: "11 Mins",
       by: "Jared Ebanks",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Bro’s Nike Zoom Freak 4",
@@ -268,7 +268,7 @@ const story = {
       like: "5/5",
       url: "https://sneakernews.com/2022/09/14/nike-zoom-freak-4-ironstone-orange-trance-cobblestone-sail-dj6149-003/",
       by: "Michael Le",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Nike Air Max Plus",
@@ -278,7 +278,7 @@ const story = {
       url: "https://sneakernews.com/2022/09/14/nike-air-max-plus-grey-orange-black-fb3358-001/",
       like: "5/5",
       by: "Michael Le",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Air Jordan Retro High OG",
@@ -288,7 +288,7 @@ const story = {
       url: "https://sneakernews.com/2022/03/09/air-jordan-1-retro-high-og-yellow-toe-555088-711/",
       like: "5/5",
       by: "Sneaker News",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Nike Air Zoom GT Cut 2",
@@ -298,7 +298,7 @@ const story = {
       url: "https://sneakernews.com/2022/09/13/nike-zoom-gt-cut-2-officially-unveiled/",
       like: "3/5",
       by: "Jared Ebanks",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Puma Announces Breanna",
@@ -308,7 +308,7 @@ const story = {
       url: "https://sneakernews.com/2022/09/13/nike-zoom-gt-cut-2-officially-unveiled/",
       like: "3/5",
       by: "Jared Ebanks",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Nike Air Force Orange Color",
@@ -318,7 +318,7 @@ const story = {
       time: "6 Days",
       like: "4/5",
       by: "Micael Le",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Hello Kitty and Adidas",
@@ -328,7 +328,7 @@ const story = {
       time: "5 Days",
       like: "4/5",
       by: "Micael Le",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
     {
       title: "Air Force 1 Low Expands",
@@ -338,7 +338,7 @@ const story = {
       time: "5 Days",
       like: "4/5",
       by: "Micael Le",
-      btn: "Read More"
+      btn: "Узнать больше"
     },
   ],
 };

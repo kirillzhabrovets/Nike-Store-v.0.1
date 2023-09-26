@@ -12,9 +12,9 @@ function CartCount({ onCartToggle, totalQTY, onClearCartItems }) {
 
           <div className="grid items-center">
             <h1 className="text-base font-medium text-slate-900">
-              В корзине
-              <span className="bg-theme-cart rounded px-1 py-0.5 text-slate-100 font-normal text-xs">
-                ({totalQTY}товаров)
+              В корзине 
+              <span className="bg-theme-cart m-2 rounded px-1 py-0.5 text-slate-100 font-normal text-xs">
+                ( {totalQTY} товаров )
               </span>
             </h1>
           </div>
